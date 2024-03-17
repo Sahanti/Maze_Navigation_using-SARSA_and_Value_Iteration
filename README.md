@@ -1,6 +1,5 @@
 **Maze Navigation using SARSA and Value Iteration**
 
-**Introduction**
 This project implements the SARSA and Value Iteration algorithms to navigate a maze from a start position to a goal state. The maze consists of walls represented by gray lines, and the goal state is at position (6,6). The project provides functions to visualize the maze, define actions (up, down, left, right, stay), and calculate rewards for each state transition.
 
 **Setup**
