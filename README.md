@@ -13,9 +13,10 @@ Usage
 Open the maze_navigation.ipynb Jupyter Notebook and run the cells to see the maze navigation using SARSA and Value Iteration algorithms.
 
 **Algorithms**
-SARSA (State-Action-Reward-State-Action): This algorithm learns the optimal policy by updating Q-values based on state-action pairs and epsilon-greedy exploration.
-Value Iteration: This algorithm calculates the optimal policy by iteratively updating the value function until it converges.
-Visualization
+1. **SARSA** (State-Action-Reward-State-Action): This algorithm learns the optimal policy by updating Q-values based on state-action pairs and epsilon-greedy exploration.
+2. **Value Iteration**: This algorithm calculates the optimal policy by iteratively updating the value function until it converges.
+   
+**Visualization**
 The project provides functions to visualize the maze grid, rewards, and optimal actions. The optimal actions are displayed as arrows indicating the direction to move from each state to reach the goal state.
 
 **Note**
